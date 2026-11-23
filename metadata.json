@@ -1,0 +1,5 @@
+{
+  "name": "HomeDesk ITSM Lab",
+  "description": "Home help desk ITSM lab featuring ticketing queues, categories, priority matrices, SLA compliance tracking, multi-stage approval workflows, and 26 resolved and active lab incidents.",
+  "requestFramePermissions": []
+}
