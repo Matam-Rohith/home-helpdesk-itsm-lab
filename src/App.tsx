@@ -420,6 +420,9 @@ export function App() {
               slaPolicies={slaPolicies}
               approvalRules={approvalRules}
               onResetLab={handleResetLab}
+              onNavigate={setActiveView}
+              onSelectTicket={(id) => setSelectedTicketId(id)}
+              onOpenNewTicket={() => setNewTicketOpen(true)}
             />
           )}
         </main>

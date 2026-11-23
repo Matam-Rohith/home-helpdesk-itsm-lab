@@ -155,7 +155,7 @@ export function OverviewView({
               {resolved.length}
             </span>
             <span className="text-xs text-emerald-700 font-medium tabular-nums">
-              Avg handle {formatMinutes(avgHandleTime)}
+              MTTR · {formatMinutes(avgHandleTime)} avg
             </span>
           </div>
         </div>
